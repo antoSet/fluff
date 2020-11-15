@@ -1,0 +1,1 @@
+HISTFILESIZE=-1 %imposto la lunghezza del file .bash_history a infinita; questo file salva tutti i comandi che vengono scritti sul terminale
