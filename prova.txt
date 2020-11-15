@@ -1,4 +1,11 @@
-questo l'ho scritto da git
+modificare un txt su git da terminale:
 
-questo invece no
+vim nomefile
+modificarlo
+esc
+:w %oppure :w.
+:p! %serve per uscire
 
+git add nomefile
+git commit -m "commento alla modifica"
+git push
