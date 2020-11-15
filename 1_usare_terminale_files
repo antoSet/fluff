@@ -7,3 +7,5 @@ mv nomefile nuovonomefile %rinomino un file
 mv nomefile ~/nomedirectory %sposto un file in una directory
 
 vim nomefile.txt %creu un file txt
+
+rm -r nomedirectory %rimuove directory e subdirectory anche piene
