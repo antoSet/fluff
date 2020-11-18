@@ -2,4 +2,6 @@ lynx
 git
 vim
 python
-
+wine
+exfat-fuse 
+exfat-utils
