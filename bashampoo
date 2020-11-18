@@ -1,0 +1,19 @@
+
+#Aliases
+alias google="firefox http://www.google.com"
+alias yt="firefox http://www.youtube.com"
+alias lis='ls -X -1'
+alias gitcnp='git commit -m "autocomm" && git push'
+#comando per cd + ls
+cl()
+{
+    cd $@
+    lis
+}
+#comando per upload github
+gitup()
+{
+git add $@
+gitcnp
+}
+
