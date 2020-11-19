@@ -7,3 +7,5 @@ opensc
 lutris
 winehq-staging
 winetricks
+nvidia-driver-450
+libvulkan1
