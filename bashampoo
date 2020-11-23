@@ -3,6 +3,8 @@
 alias g="firefox http://www.google.com"
 alias yt="firefox http://www.youtube.com"
 alias wf="firefox https://www.wolframalpha.com"
+alias ts="teamspeak"
+alias dsc="discord"
 alias lis='ls -X -1'
 alias gitcnp='git commit -m "autocomm" && git push'
 #comando per cd + ls
