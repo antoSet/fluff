@@ -1,1 +1,5 @@
 HISTFILESIZE=-1 %imposto la lunghezza del file .bash_history a infinita; questo file salva tutti i comandi che vengono scritti sul terminale
+
+---terminare processi---
+top %elenca tutti i processi e mostra i PID (process id)
+kill (inserire il PID) %termina il processo
