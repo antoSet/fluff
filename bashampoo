@@ -7,6 +7,7 @@ alias ts="teamspeak"
 alias dsc="discord"
 alias lis='ls -X -1'
 alias gitcnp='git commit -m "autocomm" && git push'
+alias wakeLap='sudo etherwake -i eth0 insert_mac'
 #comando per cd + ls
 cl()
 {
